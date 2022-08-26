@@ -4,6 +4,7 @@ Now we will see how request and response work for different HTTP methods. Let’
 GET: Request for all Students.
 Request
 GET:/api/students
+
 POST: Request for Posting/Creating/Inserting Data
 Request
 
